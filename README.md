@@ -1,1 +1,1 @@
-# qiskrypt-tutorials
+# Qiskrypt - Tutorials
