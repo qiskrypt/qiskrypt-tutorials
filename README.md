@@ -1,4 +1,4 @@
-# Qiskrypt
+# Qiskrypt - Tutorials
 
 <img src="https://raw.githubusercontent.com/qiskrypt/qiskrypt.github.io/main/assets/images/logos/qiskrypt/PNGs/qiskrypt-logo-banner.png" alt="Qiskrypt - Logo" width="60%">
 
