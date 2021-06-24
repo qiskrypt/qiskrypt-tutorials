@@ -12,7 +12,7 @@
 [![github commit activity](https://img.shields.io/github/commit-activity/m/qiskrypt/qiskrypt-tutorials)](https://github.com/qiskrypt)
 [![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt-tutorials)](https://github.com/qiskrypt)
 [![current version](https://img.shields.io/badge/version-v0.0.1-magenta.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fqiskrypt.github.io%2F)](https://qiskrypt.github.io/)
+[![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https://qiskrypt.github.io/)](https://qiskrypt.github.io/)
 
 [![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
 [![status of this version no. 2](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
