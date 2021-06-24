@@ -5,24 +5,24 @@
 #### Statistics and Status
 
 [![github followers](https://img.shields.io/github/followers/qiskrypt?style=social)](https://github.com/qiskrypt)
-[![github forks](https://img.shields.io/github/forks/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/fork)
-[![gitHub repo stars](https://img.shields.io/github/stars/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/stargazers)
-[![gitHub watchers](https://img.shields.io/github/watchers/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/watchers)
+[![github forks](https://img.shields.io/github/forks/qiskrypt/qiskrypt-tutorials?style=social)](https://github.com/qiskrypt/qiskrypt-tutorials/fork)
+[![gitHub repo stars](https://img.shields.io/github/stars/qiskrypt/qiskrypt-tutorials?style=social)](https://github.com/qiskrypt/qiskrypt-tutorials/stargazers)
+[![gitHub watchers](https://img.shields.io/github/watchers/qiskrypt/qiskrypt-tutorials?style=social)](https://github.com/qiskrypt/qiskrypt-tutorials/watchers)
 
-[![github commit activity](https://img.shields.io/github/commit-activity/m/qiskrypt/qiskrypt)](https://github.com/qiskrypt)
-[![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt)](https://github.com/qiskrypt)
-[![current version](https://img.shields.io/badge/version-v0.0.1-magenta.svg)](https://github.com/qiskrypt/qiskrypt/)
+[![github commit activity](https://img.shields.io/github/commit-activity/m/qiskrypt/qiskrypt-tutorials)](https://github.com/qiskrypt)
+[![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt-tutorials)](https://github.com/qiskrypt)
+[![current version](https://img.shields.io/badge/version-v0.0.1-magenta.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
 [![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fqiskrypt.github.io%2F)](https://qiskrypt.github.io/)
 
-[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![status of this version no. 2](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![status of this version no. 4](https://img.shields.io/badge/status-not&nbsp;documented-orange.svg)](https://github.com/qiskrypt/qiskrypt/)
+[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![status of this version no. 2](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![status of this version no. 4](https://img.shields.io/badge/status-not&nbsp;documented-orange.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-quantum&nbsp;cryptography-brown.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-quantum&nbsp;communication-brown.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-quantum&nbsp;computing-brown.svg)](https://github.com/qiskrypt/qiskrypt/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-quantum&nbsp;mechanics-brown.svg)](https://github.com/qiskrypt/qiskrypt/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-quantum&nbsp;cryptography-brown.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-quantum&nbsp;communication-brown.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-quantum&nbsp;computing-brown.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-quantum&nbsp;mechanics-brown.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/)
 
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
 
@@ -33,8 +33,8 @@
 
 [![liberapay goal progress](https://img.shields.io/liberapay/goal/qiskrypt)](https://liberapay.com/qiskrypt/)
 [![liberapay receiving](https://img.shields.io/liberapay/receives/qiskrypt)](https://liberapay.com/qiskrypt/)
-[![downloads of this repository](https://img.shields.io/github/downloads/qiskrypt/qiskrypt/total.svg)](https://github.com/qiskrypt/qiskrypt/archive/master.zip)
-[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/qiskrypt/qiskrypt/archive/master.zip)
+[![downloads of this repository](https://img.shields.io/github/downloads/qiskrypt/qiskrypt-tutorials/total.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/qiskrypt/qiskrypt-tutorials/archive/master.zip)
 
 
 #### Languages, Frameworks, Libraries & IDEs
@@ -53,7 +53,7 @@
 
 [![language/framework/ide no. 10](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 [![language/framework/ide no. 11](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![language/framework/ide no. 12](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=yellow&color=black&labelColor=black)](https://www.jetbrains.com/pycharm/)
+[![language/framework/ide no. 12](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=yellow&color=black&labelColor=black)](https://www.jetbrains.com/pycharm/)
 
 
 #### Funding
